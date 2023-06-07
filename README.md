@@ -19,5 +19,5 @@
 <p> Что нужно было сделать: https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0
   
 
-  > < a href=https://qazedctgbujm.atlassian.net/l/cp/smCnmmwB>Ссылка на проект</a>
+  > < a href=https://qazedctgbujm.atlassian.net/l/cp/smCnmmwB >Ссылка на проект</a>
   
