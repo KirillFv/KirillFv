@@ -8,7 +8,7 @@
 
 ## Навыки и техноголии
 Jira,qase.io,SQL,Postman,Trello,SoapUI, Chrome DevTools,
-Miro,Confluence
+Miro,Confluenc,Git,HTML,CSS,CI/CD,Android Studio
 
 
 
