@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/SsQa.gif" width="100"/>
+  <img src="https://static.tildacdn.com/tild3766-3133-4030-a561-663237363934/7ce9e34927261d3b0350.gif" width="100"/>
 </div>
 
 ## About me
