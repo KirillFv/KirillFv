@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/SsQa.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e47okadjyv3cleoqr054vih4a7izl9qb4lhta3ft53m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
 ## About me
