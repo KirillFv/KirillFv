@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/SsQa.gif" width="500" height="340"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ## About me
@@ -92,8 +92,10 @@ It all came down to the fact that not all functionality worked properly. which w
   <a href="https://vk.com/iiiseyaiii">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=#0077FF" alt="VK Badge"/>
   </a>
-  <a href="t.me/SeyaII">
+  
+  <a href="https://t.me/SeyaII">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=#26A5E4" alt="TG Badge"/>
+    </a>
 </div>
  
   
